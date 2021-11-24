@@ -1,0 +1,29 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4d72d57b-15e4-ec62-411b-19bea3fc7b55",
+      "6f5c5bb3-a48a-1311-5382-9eb3dcb0c77e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Organizations as Enacted Systems: Learning, Knowing and Change",
+  "course_description": "The course is structured around a core of fundamental concepts concerning how we view organizations, and the application of these concepts to basic domains of action crucial for contemporary businesses: sensemaking, learning, knowing, and change. We view organizations as enacted systems, wherein humans are continually shaping the structures that influence their action in turn. In other words, we create the systems that then create us.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.963",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
